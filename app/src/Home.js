@@ -24,9 +24,9 @@ function Home() {
         </a>
 		        <a 
           className="App-link"
-          href="/.auth/login/facebook"
+          href="/.auth/login/google"
         >
-        Log in with Facebook
+        Log in with Google
         </a>
 
       </header>
